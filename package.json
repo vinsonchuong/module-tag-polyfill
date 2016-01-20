@@ -1,0 +1,35 @@
+{
+  "name": "module-tag-polyfill",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/vinsonchuong/module-tag-polyfill",
+  "bugs": "https://github.com/vinsonchuong/module-tag-polyfill/issues",
+  "license": "MIT",
+  "author": "Vinson Chuong <vinsonchuong@gmail.com>",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "src"
+  ],
+  "main": "src/index.js",
+  "bin": {
+    "module-tag-polyfill": "src/bin/module-tag-polyfill.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinsonchuong/module-tag-polyfill"
+  },
+  "scripts": {
+    "prepublish": "dist-es6",
+    "test": "eslint && jasmine"
+  },
+  "dependencies": {
+    "node-promise-es6": "^0.3.0"
+  },
+  "devDependencies": {
+    "dist-es6": "^0.1.3",
+    "jasmine-es6": "^0.1.1",
+    "eslint-defaults": "^0.1.6"
+  }
+}
