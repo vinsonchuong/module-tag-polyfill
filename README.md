@@ -4,7 +4,7 @@
 A polyfill for [`<script type="module">`](https://github.com/whatwg/html/pull/443)
 
 ## Installing
-`dist-es6` is available as an
+`module-tag-polyfill` is available as an
 [npm package](https://www.npmjs.com/package/dist-es6).
 
 ## Usage
