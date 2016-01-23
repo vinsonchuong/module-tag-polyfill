@@ -1,7 +1,7 @@
 {
   "name": "module-tag-polyfill",
   "version": "0.0.1",
-  "description": "",
+  "description": "A polyfill for <script type=\"module\">",
   "keywords": [],
   "homepage": "https://github.com/vinsonchuong/module-tag-polyfill",
   "bugs": "https://github.com/vinsonchuong/module-tag-polyfill/issues",
