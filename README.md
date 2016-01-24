@@ -5,7 +5,7 @@ A polyfill for [`<script type="module">`](https://github.com/whatwg/html/pull/44
 
 ## Installing
 `module-tag-polyfill` is available as an
-[npm package](https://www.npmjs.com/package/dist-es6).
+[npm package](https://www.npmjs.com/package/module-tag-polyfill).
 
 ## Usage
 The `module-tag-polyfill` should be imported early either:
